@@ -11,15 +11,7 @@
     echo "Meu cookie e de: ".$_COOKIE["meuteste"]; // printei o cookie
 
 
-
-
-
-
-
-
-
-
-
+    
     // setcookie("meuteste", "fulano de tal", time()+3600);
 
     // echo "cookie setado com sucesso";
